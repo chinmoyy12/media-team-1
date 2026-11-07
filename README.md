@@ -14,6 +14,14 @@ a cinematic, 3D, fully animated portfolio and recruitment site with a secure adm
 [![Supabase](https://img.shields.io/badge/Supabase-Auth%20%2B%20DB-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com)
 [![Netlify](https://img.shields.io/badge/Hosted%20on-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com)
 
+<br>
+
+## 🌐 [**Visit the live website →**](https://rgu-media-team-1.netlify.app)
+
+[![Live on Netlify](https://img.shields.io/badge/LIVE-rgu--media--team--1.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://rgu-media-team-1.netlify.app)
+
+**https://rgu-media-team-1.netlify.app**
+
 </div>
 
 ---
